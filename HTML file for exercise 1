@@ -1,0 +1,20 @@
+HTML code for exercise one:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="section">
+        <h1>OUR SCHOOL:</h1>
+        <p>Our School has two departments namely: Computer Science and Information Technology.</p>
+    </div>
+    <div class="section">
+        <h1>OUR STUDENTS:</h1>
+        <p>Our School is able to attract the best students due to its programs' competitiveness in the industry.</p>
+    </div>
+</body>
+</html>
