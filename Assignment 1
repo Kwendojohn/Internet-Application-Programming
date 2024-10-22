@@ -1,0 +1,54 @@
+Table assignment 1 HTML code:
+
+<!DOCTYPE html>
+<head>
+    
+    <table>
+        <style>
+            table,th,td{
+                border: 2px solid black;
+                border-collapse: collapse;
+            }
+        </style>
+        <tr>
+         <th>7:00</th>
+         <th>7:30</th>
+         <th>8:00</th>
+        </tr>
+        <tr>
+            <td colspan="3">The Sunday Night Movie</td>
+        </tr>
+        <tr>
+            <td>Perry Mason</td>
+            <td>Candid Camera</td>
+            <td>What's my line</td>
+        </tr>
+        <tr>
+            <td>Bonanza</td>
+            <td colspan="2">The Wackiest ship in Army</td>
+        </tr>
+    </table>
+
+    <br>
+
+    <table>
+        <style>
+            table,th,td{
+                border: 2px solid black;
+                border-collapse: collapse;
+            }
+        </style>
+        <tr>
+          <td>apples</td>
+          <td rowspan="3">Oranges</td>
+          <td>pears</td>
+        </tr>
+        <tr>
+            <td>bananas</td>
+            <td rowspan="2">pineapples</td>
+        </tr>
+        <tr>
+            <td>lychees</td>
+        </tr>
+    </table>
+</head>
