@@ -1,0 +1,23 @@
+CSS code
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.section {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.section h1 {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+.section p {
+    background-color: darkgreen;
+    padding: 10px;
+    margin: 0;
+}
